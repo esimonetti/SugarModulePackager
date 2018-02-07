@@ -1,2 +1,0 @@
-# SugarModulePackager
-Sugar Module Packager
